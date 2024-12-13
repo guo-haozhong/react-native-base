@@ -8,7 +8,8 @@
  * rn-placeholder(骨架图)https://github.com/mfrachet/rn-placeholder
  * react-native-walkthrough-tooltip
    
-   https://github.com/mohebifar/react-native-copilot\n
+   https://github.com/mohebifar/react-native-copilot
+   
    https://github.com/jasongaare/react-native-walkthrough-tooltip
  * 
 
