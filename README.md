@@ -1,20 +1,29 @@
 # react-native-base
-实现以下功能：
-## 基础ui
- * Button（渐变色）
- * Image（网络加载出错占位图、加载缓存）
- * Text(渐变色、走马灯)
- * TextInput（可禁止复制、粘贴）
- * rn-placeholder(骨架图)https://github.com/mfrachet/rn-placeholder
- * react-native-walkthrough-tooltip
-   https://github.com/mohebifar/react-native-copilot
-   https://github.com/jasongaare/react-native-walkthrough-tooltip
- * 
+react-native-base
+## Installation
 
- ## 路由
- 
- ## api request
+```sh
+npm install react-native-base
+```
 
- ## storage
+## Usage
 
- ## mobx
+```js
+import { multiply } from "react-native-base";
+
+// ...
+
+const result = await multiply(3, 7);
+```
+
+## Contributing
+
+See the [contributing guide](CONTRIBUTING.md) to learn how to contribute to the repository and the development workflow.
+
+## License
+
+MIT
+
+---
+
+Made with [create-react-native-library](https://github.com/callstack/react-native-builder-bob)
